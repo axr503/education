@@ -1,7 +1,7 @@
 # education
 
 A Citizen Science Facemask Experiment and Educational Modules to Increase Coronavirus Safety in Communities and Schools.  
-Eichler SE, Hopperton AP, Alava JJ, Pereira A, Ahmed R, Kozlakidis Z, Ilic S and Rodriguez-Palacios A (2020) 
+Eichler SE, Hopperton AP, Alava JJ, Pereira A, Ahmed R, Kozlakidis Z, Ilic S and Rodriguez-Palacios A (2020)
 Front. Med. 7:486.  
 doi: 10.3389/fmed.2020.00486 
 
